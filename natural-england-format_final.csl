@@ -46,9 +46,11 @@
     </terms>
   </locale>
   <locale xml:lang="en-GB">
-    <terms>
-      <term name="et-al">and others</term>
-    </terms>
+   <terms>
+     <term name="et-al">and others</term>
+     <term name="letter">personal communication</term>
+     <term name="letter" form="short">letter</term>
+   </terms>
   </locale>
   <locale xml:lang="af">
     <terms>
